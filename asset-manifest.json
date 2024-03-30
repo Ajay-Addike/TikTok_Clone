@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/TikTok_Clone/static/css/main.295c6c29.css",
-    "main.js": "/TikTok_Clone/static/js/main.c013469f.js",
+    "main.js": "/TikTok_Clone/static/js/main.ca782e13.js",
     "static/media/video3.mp4": "/TikTok_Clone/static/media/video3.603085431b52424519e3.mp4",
+    "static/media/video5.mp4": "/TikTok_Clone/static/media/video5.4f5f739619b54f6b277f.mp4",
     "static/media/video1.mp4": "/TikTok_Clone/static/media/video1.ed38f80fcb147d3050ba.mp4",
     "static/media/video4.mp4": "/TikTok_Clone/static/media/video4.89cf58c3099eadb6784b.mp4",
     "static/media/video2.mp4": "/TikTok_Clone/static/media/video2.0ab4cc3de748e1e4339f.mp4",
     "index.html": "/TikTok_Clone/index.html",
     "main.295c6c29.css.map": "/TikTok_Clone/static/css/main.295c6c29.css.map",
-    "main.c013469f.js.map": "/TikTok_Clone/static/js/main.c013469f.js.map"
+    "main.ca782e13.js.map": "/TikTok_Clone/static/js/main.ca782e13.js.map"
   },
   "entrypoints": [
     "static/css/main.295c6c29.css",
-    "static/js/main.c013469f.js"
+    "static/js/main.ca782e13.js"
   ]
 }
